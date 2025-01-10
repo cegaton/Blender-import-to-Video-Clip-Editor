@@ -1,3 +1,5 @@
+DPX import Add On
+
 simple addon to import dpx files into the movieclip editor
 and automatically set the project dimensions, start frame and end frame to match the numbering on dpx frames
 To use:
